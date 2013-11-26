@@ -1,0 +1,1 @@
+Patched version of Morphia that fixes a few bugs, allows for no default constructors, compound ids etc.
